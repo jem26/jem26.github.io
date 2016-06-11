@@ -5,16 +5,16 @@
     <description>I am a Computer Science major at the University of Notre Dame</description>
     <link>https://jem26.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 09 Jun 2016 22:36:51 -0400</pubDate>
-    <lastBuildDate>Thu, 09 Jun 2016 22:36:51 -0400</lastBuildDate>
+    <pubDate>Sat, 11 Jun 2016 15:08:34 -0400</pubDate>
+    <lastBuildDate>Sat, 11 Jun 2016 15:08:34 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Project 1</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>Linux</title>
+        <description>I am familiar with Linux, and also the UNIX environment.</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://jem26.github.io/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/18/project-1/</guid>
+        <link>https://jem26.github.io/web%20development/2014/07/18/project-6/</link>
+        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/18/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -22,11 +22,11 @@
       </item>
     
       <item>
-        <title>Project 2</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>Adobe Creative Suite</title>
+        <description>I have used Adobe Photoshop and Illustrator to create graphics for various events. I also can edit existing photos well.</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://jem26.github.io/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/17/project-2/</guid>
+        <link>https://jem26.github.io/web%20development/2014/07/17/project-1/</link>
+        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/17/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -34,11 +34,11 @@
       </item>
     
       <item>
-        <title>Project 3</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>HTML and Web Development</title>
+        <description>For research, I updated the design of a speech collection website. I used HTML, CSS, and some JavaScript.</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://jem26.github.io/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/16/project-3/</guid>
+        <link>https://jem26.github.io/web%20development/2014/07/16/project-5/</link>
+        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/16/project-5/</guid>
         
         
         <category>Web Development</category>
@@ -46,8 +46,8 @@
       </item>
     
       <item>
-        <title>Project 4</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>C</title>
+        <description>I created a fully-functional game of Minesweeper using the GFX graphics library.</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
         <link>https://jem26.github.io/web%20development/2014/07/15/project-4/</link>
         <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/15/project-4/</guid>
@@ -58,11 +58,11 @@
       </item>
     
       <item>
-        <title>Project 6</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>Python</title>
+        <description>I used python to create a password cracker for an assignment. It went through hashes and decodded them. Since there were thousands of combinations, I also used a host of computers to give the jobs to.</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://jem26.github.io/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/15/project-6/</guid>
+        <link>https://jem26.github.io/web%20development/2014/07/15/project-3/</link>
+        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/15/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -70,14 +70,14 @@
       </item>
     
       <item>
-        <title>Project 5</title>
-        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <title>C++</title>
+        <description>I created a Mario-style side scrolling video game using C++ and the SDL graphics library. I worked in a group with three other members. The final game had detailed graphics, sound, responsive gameplay, and a high score tracker.</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://jem26.github.io/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/14/project-5/</guid>
+        <link>https://jem26.github.io/game%20design/2014/07/14/project-2/</link>
+        <guid isPermaLink="true">https://jem26.github.io/game%20design/2014/07/14/project-2/</guid>
         
         
-        <category>Web Development</category>
+        <category>Game Design</category>
         
       </item>
     

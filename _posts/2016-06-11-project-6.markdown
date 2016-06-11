@@ -1,0 +1,13 @@
+---
+title: Linux
+layout: default
+modal-id: 6
+date: 2014-07-18
+img: devicon-master/icons/linux/linux-plain.svg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I am familiar with Linux, and also the UNIX environment. 
+
+---

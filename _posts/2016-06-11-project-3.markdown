@@ -1,0 +1,13 @@
+---
+title: Python
+layout: default
+modal-id: 3
+date: 2014-07-15
+img: devicon-master/icons/python/python-original.svg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I used python to create a password cracker for an assignment. It went through hashes and decodded them. Since there were thousands of combinations, I also used a host of computers to give the jobs to.
+
+---
