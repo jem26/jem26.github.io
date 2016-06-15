@@ -1,13 +1,12 @@
 ---
-title: Adobe Creative Suite
+title: Recursion
 layout: default
 modal-id: 4
-date: 2014-07-17
-img: devicon-master/icons/photoshop/photoshop-plain.svg 
+date: 2014-07-14
+img: fractal.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: I have used Adobe Photoshop and Illustrator to create graphics for various events. I also can edit existing photos well. 
+project-date: April 2016
+category: Game Design
+description: This project used recursion to create images of fractals. 
 
 ---

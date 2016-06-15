@@ -3,7 +3,7 @@ title: C++
 layout: default
 modal-id: 2
 date: 2014-07-14
-img: devicon-master/icons/cplusplus/cplusplus-original.svg
+img: mario.png
 alt: image-alt
 project-date: April 2016
 category: Game Design

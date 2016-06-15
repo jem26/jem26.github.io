@@ -3,7 +3,7 @@ title: HTML and Web Development
 layout: default
 modal-id: 5
 date: 2014-07-16
-img: devicon-master/icons/html5/html5-original.svg
+img: html5.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
