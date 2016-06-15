@@ -8,6 +8,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I used python to create a password cracker for an assignment. It went through hashes and decodded them. Since there were thousands of combinations, I also used a host of computers to give the jobs to.
+link: https://bitbucket.org/jmaher5/projects/src/d8ad612751ba8d14df00bd8022844cf4e40a0f5c/project02/?at=master
+link-title: View on my Bitbucket
+description: I used python to create a password cracker for an assignment. It went through hashes and decoded them. Since there were thousands of combinations, I also used a host of computers to give the jobs to.
 
 ---

@@ -7,6 +7,8 @@ img: fractal.png
 alt: image-alt
 project-date: April 2016
 category: Game Design
-description: This project used recursion to create images of fractals. 
+link: https://github.com/jem26/fractals
+link-title: View on my GitHub
+description: This project used recursion to create images of fractals.
 
 ---

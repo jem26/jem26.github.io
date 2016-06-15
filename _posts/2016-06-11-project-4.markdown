@@ -8,6 +8,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
+link: https://github.com/jem26/minesweeper
+link-title: View on my GitHub
 description: I created a fully-functional game of Minesweeper using the GFX graphics library. 
 
 ---

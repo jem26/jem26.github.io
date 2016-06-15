@@ -7,6 +7,8 @@ img: mario.png
 alt: image-alt
 project-date: April 2016
 category: Game Design
+link: https://github.com/jem26/mario
+link-title: View on my GitHub
 description: I created a Mario-style side scrolling video game using C++ and the SDL graphics library. I worked in a group with three other members. The final game had detailed graphics, sound, responsive gameplay, and a high score tracker. 
 
 ---
