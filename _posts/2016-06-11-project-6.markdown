@@ -1,13 +1,13 @@
 ---
-title: Linux
+title: MATLAB
 layout: default
 modal-id: 6
 date: 2014-07-18
-img: linux-logo.png
+img: matlab.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I am familiar with Linux, and also the UNIX environment. 
+description: In a team of four members, I created a navigation program for students at the University of Notre Dame. The user could pick a starting and ending location, and the program would use a geodesic path-finding algorithm and image processing to find the shortest sidewalk path between those two points. The path was then illustrated on the map for the user to see. 
 
 ---

@@ -5,14 +5,14 @@
     <description>I am a Computer Science major at the University of Notre Dame</description>
     <link>https://jem26.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Jun 2016 14:35:14 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Jun 2016 14:35:14 -0400</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2016 10:48:47 -0500</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2016 10:48:47 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Linux</title>
-        <description>I am familiar with Linux, and also the UNIX environment.</description>
-        <pubDate>Fri, 18 Jul 2014 00:00:00 -0400</pubDate>
+        <title>MATLAB</title>
+        <description>In a team of four members, I created a navigation program for students at the University of Notre Dame. The user could pick a starting and ending location, and the program would use a geodesic path-finding algorithm and image processing to find the shortest sidewalk path between those two points. The path was then illustrated on the map for the user to see.</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://jem26.github.io/web%20development/2014/07/18/project-6/</link>
         <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/18/project-6/</guid>
         
@@ -24,7 +24,7 @@
       <item>
         <title>HTML and Web Development</title>
         <description>For research, I updated the design of a speech collection website. I used HTML, CSS, and some JavaScript.</description>
-        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://jem26.github.io/web%20development/2014/07/16/project-5/</link>
         <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/16/project-5/</guid>
         
@@ -36,7 +36,7 @@
       <item>
         <title>C</title>
         <description>I created a fully-functional game of Minesweeper using the GFX graphics library.</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://jem26.github.io/web%20development/2014/07/15/project-4/</link>
         <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/15/project-4/</guid>
         
@@ -48,7 +48,7 @@
       <item>
         <title>Python</title>
         <description>I used python to create a password cracker for an assignment. It went through hashes and decoded them. Since there were thousands of combinations, I also used a host of computers to give the jobs to.</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://jem26.github.io/web%20development/2014/07/15/project-3/</link>
         <guid isPermaLink="true">https://jem26.github.io/web%20development/2014/07/15/project-3/</guid>
         
@@ -60,7 +60,7 @@
       <item>
         <title>C++</title>
         <description>I created a Mario-style side scrolling video game using C++ and the SDL graphics library. I worked in a group with three other members. The final game had detailed graphics, sound, responsive gameplay, and a high score tracker.</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://jem26.github.io/game%20design/2014/07/14/project-2/</link>
         <guid isPermaLink="true">https://jem26.github.io/game%20design/2014/07/14/project-2/</guid>
         
@@ -72,7 +72,7 @@
       <item>
         <title>Recursion</title>
         <description>This project used recursion to create images of fractals.</description>
-        <pubDate>Mon, 14 Jul 2014 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate>
         <link>https://jem26.github.io/game%20design/2014/07/14/project-1/</link>
         <guid isPermaLink="true">https://jem26.github.io/game%20design/2014/07/14/project-1/</guid>
         
